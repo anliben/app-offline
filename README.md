@@ -1,0 +1,4 @@
+# app-offline
+
+Aplicativo Compilado
+https://github.com/anliben/app-offline/commit/6340d2794cfb441226c3c3ead85d23733910106b#diff-b4c6a3eca0fe9d7d593f487f534642778a9a521fe301113a6550ea3980b569b9
